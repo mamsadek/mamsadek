@@ -1,5 +1,4 @@
-<html>
-  <body>
+
   <table style="border-collapse: collapse; width: 100%;" border="2">
       <tr bgcolor="yellow"><th colspan="2"> 
 <h2><p align="center">মোঃ আকাশ মোল্লা <a style="color:green;">(আতিকুর)</a></p></h2></th>
